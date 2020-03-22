@@ -1,2 +1,3 @@
 # hello-world
-My first repo!
+I'm a dev that programs in Javascript, Python, and learning Java.
+[My website](https://www.shreyasm.dev)
